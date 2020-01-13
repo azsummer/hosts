@@ -1,0 +1,5 @@
+192.30.255.112 github.com
+192.30.255.113 www.github.com
+192.30.255.120 nodeload.github.com
+192.30.253.118 gist.github.com
+192.30.253.119 gist.github.com
