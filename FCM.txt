@@ -1,0 +1,15 @@
+# FCM代收
+173.194.199.188 mtalk.google.com
+173.194.199.188 64.233.188.188
+203.208.39.247 services.googleapis.com
+203.208.40.87 services.googleapis.com
+203.208.40.88 services.googleapis.com
+203.208.40.120 services.googleapis.com
+203.208.41.63 services.googleapis.com
+203.208.41.95 services.googleapis.com
+203.208.41.120 services.googleapis.com
+203.208.43.119 services.googleapis.com
+203.208.43.120 services.googleapis.com
+203.208.50.87 services.googleapis.com
+203.208.50.95 services.googleapis.com
+203.208.50.183 services.googleapis.com
